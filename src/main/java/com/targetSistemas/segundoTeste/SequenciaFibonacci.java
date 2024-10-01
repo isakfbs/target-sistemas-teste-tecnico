@@ -1,4 +1,4 @@
-package segundo;
+package com.targetSistemas.segundoTeste;
 import java.util.Scanner;
 
 public class SequenciaFibonacci {

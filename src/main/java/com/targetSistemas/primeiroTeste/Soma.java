@@ -1,4 +1,4 @@
-package primeiro;
+package com.targetSistemas.primeiroTeste;
 
 public class Soma {
     public static void main(String[] args) {

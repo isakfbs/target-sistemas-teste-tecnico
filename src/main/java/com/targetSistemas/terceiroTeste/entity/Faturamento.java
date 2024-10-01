@@ -1,4 +1,4 @@
-package com.targetSistemas.terceiroTeste;
+package com.targetSistemas.terceiroTeste.entity;
 
 public class Faturamento {
     private int dia;
@@ -21,6 +21,11 @@ public class Faturamento {
     }
 
 
-
-
+    @Override
+    public String toString() {
+        return "Faturamento{" +
+                "dia=" + dia +
+                ", valor=" + valor +
+                '}';
+    }
 }

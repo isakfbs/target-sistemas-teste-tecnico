@@ -1,4 +1,4 @@
-package com.targetSistemas.terceiroTeste;
+package com.targetSistemas.terceiroTeste.reader;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
